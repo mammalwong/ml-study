@@ -8,7 +8,7 @@ cffi==1.11.5
 chardet==3.0.4
 cycler==0.10.0
 Cython==0.27.3
-decorator==4.2.1
+decorator==4.3.0
 dlib==19.16.0
 face-recognition==1.2.3
 face-recognition-models==0.3.0
@@ -36,6 +36,7 @@ lockfile==0.12.2
 Markdown==2.6.11
 matplotlib==2.1.2
 mpmath==1.0.0
+networkx==2.2
 nltk==3.3
 numpy==1.15.4
 opencv-contrib-python==3.4.0.12
