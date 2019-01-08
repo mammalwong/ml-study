@@ -2,11 +2,13 @@ absl-py==0.4.1
 appdirs==1.4.3
 astor==0.7.1
 atari-py==0.1.7
+bitarray==0.8.3
 bleach==1.5.0
 Box2D-kengz==2.3.3
 certifi==2018.1.18
 cffi==1.11.5
 chardet==3.0.4
+Click==7.0
 cycler==0.10.0
 Cython==0.27.3
 decorator==4.3.0
@@ -51,6 +53,7 @@ Pillow==5.3.0
 prompt-toolkit==1.0.15
 protobuf==3.6.1
 ptyprocess==0.5.2
+pybloom-live==3.0.0
 pycparser==2.18
 pydub==0.23.0
 pyee==5.0.0
@@ -61,7 +64,7 @@ pyparsing==2.2.0
 pyppeteer==0.0.25
 python-dateutil==2.6.1
 pytz==2018.3
-pywikibot==3.0.20190106
+pywikibot==3.0.dev0
 PyYAML==3.13
 pyzmq==17.0.0
 rdflib==4.2.2
