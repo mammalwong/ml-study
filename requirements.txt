@@ -16,6 +16,7 @@ cytoolz==0.9.0.1
 decorator==4.3.0
 dill==0.2.8.2
 dlib==19.16.0
+en-core-web-sm==2.0.0
 face-recognition==1.2.3
 face-recognition-models==0.3.0
 future==0.16.0
@@ -94,6 +95,7 @@ termcolor==1.1.0
 thinc==6.12.1
 toolz==0.9.0
 torch==1.0.0
+torchdiffeq==0.0.1
 torchvision==0.2.1
 tornado==4.5.3
 tqdm==4.28.1
@@ -104,3 +106,4 @@ wcwidth==0.1.7
 websockets==7.0
 Werkzeug==0.14.1
 wrapt==1.10.11
+xx-ent-wiki-sm==2.0.0
