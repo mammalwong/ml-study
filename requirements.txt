@@ -23,6 +23,7 @@ future==0.16.0
 gast==0.2.0
 glfw==1.5.1
 google-images-download==1.0.2
+graphviz==0.10.1
 grpcio==1.14.2
 gym==0.10.3
 h5py==2.8.0
