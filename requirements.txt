@@ -89,7 +89,7 @@ pyppeteer==0.0.25
 python-dateutil==2.6.1
 pytz==2018.3
 pywikibot==3.0.dev0
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.0.0
 rdflib==4.2.2
 regex==2018.1.10
